@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@jack/30-nites-of-code)  
+  ![@jack #30NitesOfCode](https://www.codedex.io/api/petStatus?user=jack)
+
+
 <!--
 **jht301/jht301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
